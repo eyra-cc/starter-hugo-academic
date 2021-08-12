@@ -32,4 +32,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*International Review of Law and Economics*'
+
 ---
