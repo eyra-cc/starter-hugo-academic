@@ -8,6 +8,7 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 # Link this post with a project
 projects: []
 
+active: false
 # Date published
 date: "2020-12-13T00:00:00Z"
 
