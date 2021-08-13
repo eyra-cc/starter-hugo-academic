@@ -59,4 +59,4 @@ I am currently a PhD candicate expecting to go on the job market 2021-22. My res
 
 
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume2.pdf" "newtab" >}}resumé{{< /staticref >}}.
