@@ -29,6 +29,8 @@ education:
     institution: University of California, Irvine
     year: Expected, 2022
   
+
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -53,6 +55,8 @@ email: "eryay@uci.edu"
 highlight_name: false
 ---
 
-later
+I am currently a PhD candicate expecting to go on the job market 2021-22. My research interest is economic theory, especially in decision theory and in mechanism design. I have done some work in both directions. I am also interested in law and econocmis and have a publication in that area. My advisor is Igor Kopylov. 
+
+
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume1.pdf" "newtab" >}}resumé{{< /staticref >}}.

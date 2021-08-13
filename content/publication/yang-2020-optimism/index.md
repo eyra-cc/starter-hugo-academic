@@ -30,7 +30,8 @@ projects: []
 publishDate: '2021-08-12T19:40:46.118296Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: This paper uses the rank-dependent expected utility (RDEU) model to capture the effects of optimism and pessimism on the choice between a settlement and a trial. These two legal procedures are described as a bargaining game and a contest game, respectively. My models predict that a trial occurs if the aggregate optimism premium in a contest AOPC is sufficiently high. I also find that the APOC tends to be higher for close cases. Such predictions are consistent with the Priest-Klein empirical observation that a plaintiff’s winning probability is often near 50% in many areas of civil litigation. I also show that the highest levels of effort in both a bargaining game and a contest game are exerted when one is moderately optimistic. However, excessive optimism will reduce one's effort level, and hence, one's winning rate. As a result, when faced with an excessively optimistic party, a neutral party may prefer a contest over bargaining. 
+
 publication: '*International Review of Law and Economics*'
 
 url_pdf: https://drive.google.com/file/d/14Tg_rwLUN651ZIgCIPwf7AXxWRqisXwe/view?usp=sharing
