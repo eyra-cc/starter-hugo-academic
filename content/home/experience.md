@@ -32,7 +32,7 @@ experience:
     date_start: '2016-09-01'
     date_end: ''
     description: |2-
-        Courses taught include:
+        Courses assisted include:
         
         * Graduate Level Microeconomics Theory: Econ 210A, 210B, 210C;
         * Mathematics for econocmists: Econ 203A;
