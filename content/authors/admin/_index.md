@@ -19,7 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Decision Theory
-- Mechasnim Design
+- Mechanism Design
 - Law and Economics
 
 # Education to show in About widget
