@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reduce-Form Mechanism Design and Fairness Constraints
+title: Reduced-Form Mechanism Design and Fairness Constraints
 subtitle: ''
 summary: ''
 authors:
