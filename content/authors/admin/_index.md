@@ -14,7 +14,7 @@ organizations:
  # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include decision theory, mechanism design, and law and economics.
+# bio: My research interests include decision theory, mechanism design, and law and economics.
 
 # Interests to show in About widget
 interests:
@@ -47,7 +47,7 @@ social:
    #link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "eryay@uci.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -55,4 +55,4 @@ highlight_name: false
 
 later
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume1.pdf" "newtab" >}}resumé{{< /staticref >}}.

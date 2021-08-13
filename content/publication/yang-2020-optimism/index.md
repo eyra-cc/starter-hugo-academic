@@ -33,4 +33,10 @@ publication_types:
 abstract: ''
 publication: '*International Review of Law and Economics*'
 
+url_pdf: https://drive.google.com/file/d/14Tg_rwLUN651ZIgCIPwf7AXxWRqisXwe/view?usp=sharing
+
+
+ .
 ---
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/Optimism.pdf" "newtab" >}}paper{{< /staticref >}}
