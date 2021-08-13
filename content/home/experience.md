@@ -32,10 +32,10 @@ experience:
     date_start: '2016-09-01'
     date_end: ''
     description: |2-
-        Courses Taught include:
+        Courses taught include:
         
         * Graduate Level Microeconomics Theory: Econ 210A, 210B, 210C;
-        * MathCamp for econocmists;
+        * Mathematics for econocmists: Econ 203A;
         * Behaviroal Econocmists;
         * Game Theory;
         * Intermediate Econocmis, etc.
