@@ -36,7 +36,7 @@ experience:
         
         * Graduate level Microeconomics Theory: Econ 210A, 210B, 210C;
         * Graduate level Mathematics for Econocmists: Econ 203A;
-        * Behaviroal Economics;
+        * Behavioral Economics;
         * Game Theory;
         * Intermediate Econocmics, etc.
         
