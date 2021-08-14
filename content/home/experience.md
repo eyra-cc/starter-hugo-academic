@@ -35,10 +35,10 @@ experience:
         Courses assisted include:
         
         * Graduate Level Microeconomics Theory: Econ 210A, 210B, 210C;
-        * Mathematics for econocmists: Econ 203A;
+        * Mathematics for econocmists: Econ 203A (graduate level);
         * Behaviroal Econocmists;
         * Game Theory;
-        * Intermediate Econocmis, etc.
+        * Intermediate Econocmics, etc.
         
   
 design:
