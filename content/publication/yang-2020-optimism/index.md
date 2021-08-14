@@ -36,8 +36,7 @@ publication: '*International Review of Law and Economics*'
 
 url_pdf: https://drive.google.com/file/d/14Tg_rwLUN651ZIgCIPwf7AXxWRqisXwe/view?usp=sharing
 
-
- .
+doi: 10.1016/j.irle.2020.105935
 ---
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/Optimism.pdf" "newtab" >}}paper{{< /staticref >}}
