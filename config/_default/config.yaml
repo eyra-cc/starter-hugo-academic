@@ -6,6 +6,7 @@
 title: Erya Yang's Website # Website name
 baseurl: 'https://example.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
+tags: [Erya Yang]
 
 ############################
 ## LANGUAGE
