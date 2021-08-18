@@ -21,6 +21,7 @@ interests:
 - Decision Theory
 - Mechanism Design
 - Law and Economics
+- Political Economy
 
 # Education to show in About widget
 education:
