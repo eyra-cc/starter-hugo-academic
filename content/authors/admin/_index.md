@@ -10,7 +10,7 @@ role: PhD Candidate, Department of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, Irive
+- name: University of California, Irvine
  # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
