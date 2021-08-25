@@ -31,9 +31,10 @@ publishDate: '2021-08-12T19:40:46.118296Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Accepted, Economic Theory Bulletin*'
+publication: '*Economic Theory Bulletin*'
 
 url_pdf: https://drive.google.com/file/d/1ELywfQFh-0LZLMgJ_EvADIxhbKrAcjnr/view?usp=sharing
+doi: 10.1007/s40505-021-00211-1
 
 
 abstract: This paper incorporates fairness constraints into the classic single-unit reduced-form implementation problem (Border, 1991, 2007; Che, Kim & Mierendorff, 2013; Manelli & Vicent, 2010) with two agents. To do so, I use a new approach that utilizes the results from Kellerer (1961) and Gutmann, Kemperman, and Shepp (1991). Under realistic assumptions on the constraints, the conditions are transparent and can be verified in polynomial time.
