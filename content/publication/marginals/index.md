@@ -31,7 +31,7 @@ publishDate: '2021-08-12T19:40:46.118296Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Economic Theory Bulletin*'
+publication: '*Accepted, Economic Theory Bulletin*'
 
 url_pdf: https://drive.google.com/file/d/1ELywfQFh-0LZLMgJ_EvADIxhbKrAcjnr/view?usp=sharing
 doi: 10.1007/s40505-021-00211-1
