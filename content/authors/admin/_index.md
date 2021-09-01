@@ -56,7 +56,7 @@ email: "eryay@uci.edu"
 highlight_name: false
 ---
 
-I am currently a PhD candidate on the job market 2021-22. My research interest is in economic theory, especially decision theory and  mechanism design. I have done some work in both directions. I am also interested in law and economics and have a publication in that area. My advisor is Igor Kopylov. 
+I am a PhD candidate on the job market 2021-22. My research interest is in economic theory, especially decision theory and  mechanism design. I have done some work in both directions. I am also interested in law and economics and have a publication in that area. My advisor is Igor Kopylov. 
 
 
 
