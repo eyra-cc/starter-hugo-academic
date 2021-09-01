@@ -60,4 +60,4 @@ I am currently a PhD candidate expected to be on the job market 2021-22. My rese
 
 
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume2.pdf" "newtab" >}}CV{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yang.pdf" "newtab" >}}CV{{< /staticref >}}.
