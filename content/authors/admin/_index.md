@@ -20,8 +20,6 @@ organizations:
 interests:
 - Decision Theory
 - Mechanism Design
-- Law and Economics
-- Political Economy
 
 # Education to show in About widget
 education:
@@ -56,7 +54,7 @@ email: "eryay@uci.edu"
 highlight_name: false
 ---
 
-I am a PhD candidate on the job market 2021-22. My research interest is in economic theory, especially decision theory and  mechanism design. I have done some work in both directions. I am also interested in law and economics and have a publication in that area. My advisor is Igor Kopylov. 
+I am a PhD candidate on the job market 2021-22. My research interest is in economic theory, especially decision theory and  mechanism design. I have done some work in both directions. I  have also applied some of these theories to study fairness and social welfare. My advisor is Igor Kopylov. 
 
 
 
