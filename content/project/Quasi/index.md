@@ -7,7 +7,7 @@ date: '2021-08-13'
 # summary: An example of using the in-built project page.
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://drive.google.com/file/d/1_P4nM_7GWsnePV7nD8r99gNhCGDbh3bo/view?usp=sharing
+url_pdf: https://drive.google.com/file/d/1_P4nM_7GWsnePV7nD8r99gNhCGDbh3bo/view?usp=sharing
 
 
 
