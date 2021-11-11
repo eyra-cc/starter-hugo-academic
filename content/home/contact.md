@@ -13,7 +13,7 @@ title: Contact
 subtitle:
 
 content: 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ReferenceInfo.pdf" "newtab" >}}Reference List{{< /staticref >}}.
+
 
   # Automatically link email and phone or display as text?
   # autolink: true
@@ -33,3 +33,4 @@ content:
 design:
   columns: '2'
 ---
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ReferenceInfo.pdf" "newtab" >}}Reference List{{< /staticref >}}.
