@@ -7,7 +7,7 @@ date: '2021-08-13'
 # summary: An example of using the in-built project page.
 
 # Optional external URL for project (replaces project detail page).
-url_pdf: https://drive.google.com/file/d/1_P4nM_7GWsnePV7nD8r99gNhCGDbh3bo/view?usp=sharing
+url_pdf: https://drive.google.com/file/d/1IeKUuyh4fZCZdUCxk8RsQP3I3-Eh7NEC/view?usp=sharing
 
 
 
@@ -25,5 +25,6 @@ url_pdf: https://drive.google.com/file/d/1_P4nM_7GWsnePV7nD8r99gNhCGDbh3bo/view?
 
 ---
 
-**This is my Job Market Paper.
- I refine the random utility model (RUM) of Block and Marschak (1959) and represent stochastic choice data with quasi-linear types. These types reflect heterogeneous preferences of a group of agents or a single agent across repeated questions. In my framework, choices are observed across pairs of consumption goods and money. Such primitives provide unique identification for the probability measure over the underlying quasi-linear types. Moreover, my model implies a unique social welfare aggregator that is consistent with Pareto efficiency criteria.
+**This is my Job Market Paper, dated May 2, 2022. Current status: revise and resubmit at Journal of Economic Theory.  
+
+In this paper, I refine the random utility model (RUM) of \cite{block1959random} to represent stochastic choice data with quasi-linear types. In my framework, choices are observed across pairs of goods and money. The random quasi-linear utility function is identified uniquely in my model. This identification implies a unique social welfare aggregator that is consistent with the Pareto efficiency criteria. In general, the uniqueness of the quasi-linear tie-breaking rule is not guaranteed, but it can be obtained in a special case where the tie-breaking is uniform. I also characterize a special case where the set of possible types is binary.
