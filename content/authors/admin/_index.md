@@ -58,4 +58,4 @@ I am a PhD candidate on the job market 2021-22. My research interest is in econo
 
 
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yang.pdf" "newtab" >}}CV{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yang-combined.pdf" "newtab" >}}CV{{< /staticref >}}.
