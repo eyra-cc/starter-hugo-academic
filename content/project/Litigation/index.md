@@ -1,12 +1,12 @@
 ---
-title: Are "Ambulance Chasers" That Bad? Litigation, Lawyer's Advice, and Social Welfare
+title: Revealed Delegation and Persuasion
 authors:
+- Igor Kopylov
 - Erya Yang
-date: '2020-08-13'
+date: '2021-02-25'
 
-
-url_pdf: https://drive.google.com/file/d/1puMV2sAfK6qkXZI9C2YpbFkf6OR6sOmx/view?usp=sharing
-summary: This article models litigation in signaling games with an imperfectly informed victim and a perfectly informed defendant. I compare a two-agent game and a three-agent extension where the victim can hire a lawyer who is perfectly informed but who pursues a selfish objective in his advice. In particular, a lawyer affects a victim's information environment in a way that is similar to Bayesian persuasion  (Kamenica & Gentzkow, 2011). Overall, this analysis captures some stylized empirical patterns of the legal system, and identifies both the positive and negative welfare effects of lawyers' advice on the number of cases filed and litigated, victim's trial winning rates, and defendants' safety costs.
+url_pdf: https://drive.google.com/file/d/1ZmeSVm9mSVV_NgVxrjKP6sSufcxFkHH_/view?usp=sharing
+# summary: An example of using the in-built project page.
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
@@ -20,4 +20,16 @@ summary: This article models litigation in signaling games with an imperfectly i
 # slides: example
 ---
 
-
+To delegate  future choices, planners can influence doers in various ways.
+In the intrapersonal case,  a planner can  motivate her future self
+by   commitments, promises, deadlines  etc.
+In the interpersonal case, doers can be selected and/or persuaded to change their beliefs.
+Even if delegations and persuasions are not observed directly, they can be still revealed through
+other choice primitives.
+We obtain this identification from  planners' preferences over  menus in a consumption space Z.
+All possible delegations are derived as an endogenous class of doers' rankings of Z,
+and  can  be further refined by expected utility when Z consists of lotteries or uncertain prospects.
+The latter case can be interpreted in terms of persuasions that  affect the doer's beliefs without changing her risk attitude.
+In this interpretation, the set of  possible beliefs is identified uniquely.
+A further refinement of this model captures a planner who  knows objective probabilities and can use them in persuasion.
+Finally, we discuss how delegations can be revealed through choices in menus rather than among menus.
