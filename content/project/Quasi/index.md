@@ -1,5 +1,5 @@
 ---
-title: Quasi-linear Random Utility (revise and resubmit at Journal of Economic Theory)
+title: Quasi-linear Random Utility 
 authors:
 - Erya Yang
 date: '2022-05-02'
