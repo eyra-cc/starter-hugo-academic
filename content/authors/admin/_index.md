@@ -6,7 +6,7 @@ title: Erya Yang
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate, Department of Economics
+# role: PhD Candidate, Department of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of California, Irvine
-    year: Expected 2022
+    year: June 10th 2022
   
 
 
@@ -54,7 +54,7 @@ email: "eryay@uci.edu"
 highlight_name: false
 ---
 
-I am a PhD candidate on the job market 2021-22. My research interest is in economic theory, especially decision theory and  mechanism design. I have done some work in both directions. I  have also applied some of these theories to study fairness and social welfare. My advisor is Igor Kopylov. 
+My research interest is in economic theory, especially decision theory and  mechanism design. I have done some work in both directions. I  have also applied some of these theories to study fairness and social welfare. My advisor is Igor Kopylov. 
 
 
 
