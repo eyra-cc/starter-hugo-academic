@@ -9,8 +9,8 @@ superuser: true
 # role: PhD Candidate, Department of Economics
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: University of California, Irvine
+# organizations:
+# - name: University of California, Irvine
  # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,8 +54,7 @@ email: "eryay@uci.edu"
 highlight_name: false
 ---
 
-My research interest is in economic theory, especially decision theory and  mechanism design. I have done some work in both directions. I  have also applied some of these theories to study fairness and social welfare. My advisor is Igor Kopylov. 
-
+My research interest is in economic theory, especially decision theory and  mechanism design. I have done some work in both directions. I  have also applied some of these theories to study fairness and social welfare. 
 
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yang.pdf" "newtab" >}}CV{{< /staticref >}}.
