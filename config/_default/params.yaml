@@ -22,13 +22,13 @@ twitter: ''
 
 email: eryay@uci.edu
 #phone: 888 888 88 88
-address:
-  street: SSPB 3254, University of California, Irvine
-  city: Irvine
-  region: CA
-  postcode: '92617'
-  country: United States
-  country_code: US
+# address:
+#  street: SSPB 3254, University of California, Irvine
+#  city: Irvine
+#  region: CA
+#  postcode: '92617'
+#  country: United States
+#  country_code: US
 #coordinates:
  # latitude: '37.4275'
  # longitude: '-122.1697'
