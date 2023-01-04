@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of California, Irvine
-    year: June 10th 2022
+    year: June 2022
   
 
 
