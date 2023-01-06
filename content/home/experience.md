@@ -26,6 +26,11 @@ date_format: Jan 2006
 experience:
   - title: Instructor
     company: Business School, Sun Yat-sen University
+    # location: California
+    date_start: ''
+    date_end: ''
+    description: |2-
+    
     * Intermediate microeconomics (2022 fall)
     * Advanced microeconomics (graduate and PhD, 2022 fall)
     * Game Theory and Information Economics (2022 spring)
