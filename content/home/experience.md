@@ -24,6 +24,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Instructor
+    company: Business School, Sun Yat-sen University
+    * Intermediate microeconomics (2022 fall)
+    * Advanced microeconomics (graduate and PhD, 2022 fall)
+    * Game Theory and Information Economics (2022 spring)
+
   - title: Teaching Assistant
     company: University of California, Irvine
     # company_url: ''
