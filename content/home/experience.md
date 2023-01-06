@@ -29,8 +29,7 @@ experience:
     # location: California
     date_start: ''
     date_end: ''
-    description: |2-
-    
+#    description: |2-
     * Intermediate microeconomics (2022 fall)
     * Advanced microeconomics (graduate and PhD, 2022 fall)
     * Game Theory and Information Economics (2022 spring)
