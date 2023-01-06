@@ -6,11 +6,11 @@ title: Erya Yang
 superuser: true
 
 # Role/position/tagline
-# role: PhD Candidate, Department of Economics
-
+ role: Assistant Professor, Business School
+ 
 # Organizations/Affiliations to show in About widget
-# organizations:
-# - name: University of California, Irvine
+ organizations:
+ - name: Sun Yat-sen University
  # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
