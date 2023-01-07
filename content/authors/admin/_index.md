@@ -55,6 +55,3 @@ highlight_name: false
 ---
 
 My research interest is in economic theory, especially decision theory and  mechanism design. I have done some work in both directions. I  have also applied some of these theories to study fairness and social welfare. 
-
-
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yang.pdf" "newtab" >}}CV{{< /staticref >}}.
