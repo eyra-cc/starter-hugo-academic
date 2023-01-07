@@ -48,7 +48,7 @@ social:
    #link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "eryay@uci.edu"
+# email: "eryay@uci.edu"
 email: "yangery@mail.sysu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
