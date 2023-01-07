@@ -41,7 +41,7 @@ experience:
     # company_logo: org-gc
     location: California
     date_start: '2016-09-01'
-    date_end: ''
+    date_end: '2021-07-01'
     description: |2-
         Courses assisted include:
         
