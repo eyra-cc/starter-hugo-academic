@@ -59,4 +59,4 @@ email: "yangery@mail.sysu.edu.cn"
 highlight_name: false
 ---
 
-My research interest is in economic theory, especially decision theory and  mechanism design. I have done some work in both directions. I  have also applied some of these theories to study fairness and social welfare. 
+My research interest is in microeconomic theory, in particular, decision theory and  mechanism design. I have done some work in both directions.
