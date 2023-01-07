@@ -39,7 +39,7 @@ social:
   icon_pack: fas
   link: '/#contact'
 - icon: google-scholar
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=uUUfh_wAAAAJ
 
 # Link to a PDF of your resume/CV.
