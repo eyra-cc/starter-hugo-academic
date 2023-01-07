@@ -31,9 +31,10 @@ experience:
     date_end: ''
     description: |2-
         Courses taught include:
-          * Intermediate microeconomics (2022 fall)
-          * Advanced microeconomics (graduate and PhD, 2022 fall)
-          * Game Theory and Information Economics (2022 spring)
+        
+        * Intermediate microeconomics (2022 fall)
+        * Advanced microeconomics (graduate and PhD, 2022 fall)
+        * Game Theory and Information Economics (2022 spring)
 
   - title: Teaching Assistant
     company: University of California, Irvine
