@@ -38,7 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?hl=en&user=uUUfh_wAAAAJ
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
