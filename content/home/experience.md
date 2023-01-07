@@ -26,8 +26,8 @@ date_format: Jan 2006
 experience:
   - title: Instructor
     company: Business School, Sun Yat-sen University
-    location: California
-    date_start: '2016-09-01'
+    location: Shenzhen, China
+    date_start: '2022-09-01'
     date_end: ''
     description: |2-
         Courses taught include:
