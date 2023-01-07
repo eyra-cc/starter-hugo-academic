@@ -33,4 +33,4 @@ content:
 design:
   columns: '2'
 ---
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ReferenceInfo.pdf" "newtab" >}}Reference List{{< /staticref >}}.
+ # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ReferenceInfo.pdf" "newtab" >}}Reference List{{< /staticref >}}.
