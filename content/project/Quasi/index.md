@@ -4,9 +4,7 @@ authors:
 - Erya Yang
 date: '2022-05-02'
 
-summary: In this paper, I refine the random utility model (RUM) of Block and Marschak (1959) to represent stochastic choice data with quasi-linear types. In my framework, choices are observed across pairs of goods and money. The random quasi-linear utility function is identified uniquely in my model. This identification implies a unique social welfare aggregator that is consistent with the Pareto efficiency criteria. In general, the uniqueness of the quasi-linear tie-breaking rule is not guaranteed, but it can be obtained in a special case where the tie-breaking is uniform. I also characterize a special case where the set of possible types is binary.
-
-(A continuation under the same name was published as a joint paper, but there is still some novel material in this version that might be used later in a separate paper.)
+summary: In this paper, I refine the random utility model (RUM) of Block and Marschak (1959) to represent stochastic choice data with quasi-linear types. In my framework, choices are observed across pairs of goods and money. The random quasi-linear utility function is identified uniquely in my model. This identification implies a unique social welfare aggregator that is consistent with the Pareto efficiency criteria. In general, the uniqueness of the quasi-linear tie-breaking rule is not guaranteed, but it can be obtained in a special case where the tie-breaking is uniform. I also characterize a special case where the set of possible types is binary. (A continuation under the same name was published as a joint paper, but there is still some novel material in this version that might be used later in a separate paper.)
 
 # Optional external URL for project (replaces project detail page).
 url_pdf: https://drive.google.com/file/d/1IeKUuyh4fZCZdUCxk8RsQP3I3-Eh7NEC/view?usp=sharing
