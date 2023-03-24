@@ -10,7 +10,7 @@ summary: We propose a random quasi-linear utility model (RQUM) where quasi-linea
 
 
 # Optional external URL for project (replaces project detail page).
-url_pdf: [https://drive.google.com/file/d/1ptSkwnRQ8kjRTlK_PjLRH2SXfQZMCL-N/view?usp=share_link]
+url_pdf: https://drive.google.com/file/d/1ptSkwnRQ8kjRTlK_PjLRH2SXfQZMCL-N/view?usp=share_link
 
 
 
