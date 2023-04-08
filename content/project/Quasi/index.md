@@ -1,5 +1,5 @@
 ---
-title: Quasi-linear Random Utility (Original Finite Version with Tie-breaking)
+title: Quasi-linear Random Utility (Original Finite Version)
 authors:
 - Erya Yang
 date: '2022-05-02'
