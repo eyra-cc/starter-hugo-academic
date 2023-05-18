@@ -5,7 +5,7 @@ title: Random Quasi-linear Utility
 subtitle: ''
 summary: ''
 authors:
-- Erya Yang
+- Erya Yang and Igor Kopylov
 tags: []
 categories: []
 date: '2023-03-28'
