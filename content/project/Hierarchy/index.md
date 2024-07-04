@@ -1,5 +1,5 @@
 ---
-title: A Hierarchy of Stochastic Choices
+title: A Hierarchy of Stochastic Choice
 authors:
 - Erya Yang
 - Adam Brandenburger
