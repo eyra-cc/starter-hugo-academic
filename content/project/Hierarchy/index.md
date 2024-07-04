@@ -5,7 +5,7 @@ authors:
 - Adam Brandenburger
 date: '2024-07-04'
 
-summary: We develop a hierarchy of families of stochastic choice rules in terms of increasing complexity based on the concepts of a conditional probability space (Renyi, 1955) and a dimensionally-ordered system of measures (Renyi, 1956). 
+summary: We develop a hierarchy of families of stochastic choice rules in terms of increasing complexity based on the concepts of a conditional probability space (Renyi, 1955) and a dimensionally-ordered system of measures (Renyi, 1956). The levels of our hierarchy are: single-valued or point conditional probability spaces (PCPS’s); conditional probability spaces; probabilistic mixtures of PCPS’s; mutually absolutely continuous mixtures of PCPS’s; absolutely continuous mixtures of PCPS’s; and signed probability mixtures of PCPS’s. 
 
 # Optional external URL for project (replaces project detail page).
 url_pdf: https://drive.google.com/file/d/1OkY8hMH4XH21m3mIQIJQcL8IICQz9tTE/view?usp=drive_link
