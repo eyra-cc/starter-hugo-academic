@@ -1,6 +1,7 @@
 
 ---
 title: Revealed Incentives and Consideration Sets
+
 authors:
 - Igor Kopylov
 - Erya Yang
