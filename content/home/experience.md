@@ -35,6 +35,7 @@ experience:
         * Intermediate microeconomics (2022 fall)
         * Advanced microeconomics (graduate and PhD, 2022 fall)
         * Game Theory and Information Economics (2022 spring)
+        * Mechanism Design and its Applications (2023 Fall)
 
   - title: Teaching Assistant
     company: University of California, Irvine
