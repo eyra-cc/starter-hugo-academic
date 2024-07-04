@@ -2,7 +2,8 @@
 ---
 title: Revealed Incentives and Consideration Sets
 authors:
-- Igor Kopylov and Erya Yang
+- Igor Kopylov
+- Erya Yang
 date: '2024-05-06'
 
 summary: We model choices of a person (a doer) whose preferences and considerations sets can be strategically manipulated by another agent (a planner) via costly unobserved incentives. This interpretation can be interpersonal — where the planner and the doer are distinct individuals—or intrapersonal where the planner motivates her future self. In general, doers can be motivated by advertising, monetary transfers, commitments, and other techniques. We model choice functions that are consistent with a broad class of such incentive schemes. Our main axiom relaxes the classic WARP, but in a way different than the rationalization and inattention effects in Manzini and Mariotti (2007) and Masatlioglu, Nakajima, and Ozbay (2012) respectively. Besides axiomatic foundations, we provide revelation principles in all of these frameworks. Without loss in gen-
