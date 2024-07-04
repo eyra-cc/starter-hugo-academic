@@ -1,4 +1,3 @@
-
 ---
 title: A Complexity Hierarchy for Stochastic Choices
 authors:
