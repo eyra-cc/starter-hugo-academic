@@ -3,7 +3,7 @@ title: Conditional Probability Spaces and the Structure of Agreement
 authors:
 - Erya Yang
 - Adam Brandenburger
-date: '2024-07-04'
+date: '2026-04-27'
 
 summary: We use the machinery of a conditional probability space (R´enyi 26, 1955)
 to obtain an Agreement Theorem (Aumann 1, 1976) under general conditions.
