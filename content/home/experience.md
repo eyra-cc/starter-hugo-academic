@@ -25,12 +25,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: Lingnan College; Shenzhen Institute of Economics, Lingnan College, Sun Yat-sen University.
-    location: Shenzhen, China
-    date_start: '2025-10'
-    date_end: ''
-    
-  - title: Assistant Professor
     company: Business School, Sun Yat-sen University
     location: Shenzhen, China
     date_start: '2022-09-01'
