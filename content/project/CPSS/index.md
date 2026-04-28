@@ -5,11 +5,9 @@ authors:
 - Adam Brandenburger
 date: '2026-04-27'
 
-summary: We use the machinery of a conditional probability space (R´enyi 26, 1955)
-to obtain an Agreement Theorem (Aumann 1, 1976) under general conditions.
-A conditional probability space (CPS) is a family of probability measures defined relative to a family of conditioning events that satisfies concentration
-and a chain rule. Using this apparatus, we obtain an Agreement Theorem
-that dispenses with the traditional assumptions of a common prior, information partitions, positivity of measure, and knowledge operators. Our treatment
+summary: We use the machinery of a conditional probability space (R´enyi 26, 1955) to obtain an Agreement Theorem (Aumann 1, 1976) under general conditions.
+A conditional probability space (CPS) is a family of probability measures defined relative to a family of conditioning events that satisfies concentration
+and a chain rule. Using this apparatus, we obtain an Agreement Theorem that dispenses with the traditional assumptions of a common prior, information partitions, positivity of measure, and knowledge operators. Our treatment
 can be viewed as “deconstructing” the classic Agreement Theorem, by showing
 how it can be built up from local probabilistic-epistemic ingredients. The main
 technical contribution is to define an augmentation procedure for CPS’s that
