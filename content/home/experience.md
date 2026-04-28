@@ -28,7 +28,7 @@ experience:
     company: Business School, Sun Yat-sen University
     location: Shenzhen, China
     date_start: '2022-09-01'
-    date_end: '2025-10'
+    date_end: '2025-10-01'
     description: |2-
         Courses taught include:
         
